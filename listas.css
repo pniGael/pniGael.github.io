@@ -1,0 +1,16 @@
+#indice>ul{
+list-style-type: none;
+}
+
+#indice ul>ol{
+list-style-type: none;
+}
+
+#indice ul ol li{
+    font-size: smaller;
+}
+
+#indeice a {
+    display: flex;
+    justify-content: center;
+}

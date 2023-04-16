@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>IES Puerto de la Cruz</title>
+		<link>https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/</link>
+		<description>Página web del IES Telesforo Bravo</description>
+		<language>en-us</language>
+		<copyright><![CDATA[ Gobierno de Canarias ]]></copyright>
+		<item>
+			<title>Oferta educativa del centro</title>
+			<link>https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/oferta-educativa/</link>
+			<pubDate>Sun,16 Apr 2022 12:00:00 GMT</pubDate>
+			<author>gael.hernandezgarciawrc@gmail.com</author>
+			<category>INFO</category>
+			<description><![CDATA[ 
+			<h1>Oferta educativa del centro</h1>
+			En esta parte de la web puedes encontrar todas las ofertas educativas que ofrece el centro de enseñanzas superiores; la ESO y Bachillerato y los ciclos, medio y superior.
+			]]></description>
+		</item>
+		<item>
+			<title>Contacta con el centro</title>
+			<link>https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/contacta/</link>
+			<pubDate>Sun,16 Apr 2022 12:00:00 GMT</pubDate>
+			<author>gael.hernandezgarciawrc@gmail.com</author>
+			<category>INFO</category>
+			<description><![CDATA[ 
+			<h1>Contacta con el centro</h1>
+			Aquí puedes encontrar todos los medios de contacto con los que cuenta el centro, desde número de tlf hasta las redes sociales.
+			]]></description>
+		</item>
+		<item>
+			<title>Erasmus</title>
+			<link>https://www3.gobiernodecanarias.org/medusa/proyecto/38003999-0002/</link>
+			<pubDate>Sun,16 Apr 2022 12:00:00 GMT</pubDate>
+			<author>gael.hernandezgarciawrc@gmail.com</author>
+			<category>INFO</category>
+			<description><![CDATA[ 
+			<h1>Erasmus</h1>
+			EL IES Telesforo Bravo está comprometido con el proyecto Erasmus+, desde aquí puedes acceder a toda la información de este fantástico proyecto.
+			]]></description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,20 @@
+body{
+background-image: url(../imgs/mondrian.jpg);
+}
+
+#cabecera{
+background-image: url(../imgs/rothko.jpg);
+}
+
+#indice{
+background-image: url(../imgs/vangogh2.jpg);
+}
+
+#contenido{
+background-image: url(../imgs/monet2.jpg);
+}
+
+#piedepagina{
+background-image: url(../imgs/kandinsky.jpg)
+}
+
